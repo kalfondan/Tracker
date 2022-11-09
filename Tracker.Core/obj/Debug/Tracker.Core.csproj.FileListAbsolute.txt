@@ -1,0 +1,5 @@
+C:\Users\Dan\source\repos\Tracker\Tracker.Core\bin\Debug\Tracker.Core.dll
+C:\Users\Dan\source\repos\Tracker\Tracker.Core\bin\Debug\Tracker.Core.pdb
+C:\Users\Dan\source\repos\Tracker\Tracker.Core\obj\Debug\Tracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Tracker\Tracker.Core\obj\Debug\Tracker.Core.dll
+C:\Users\Dan\source\repos\Tracker\Tracker.Core\obj\Debug\Tracker.Core.pdb

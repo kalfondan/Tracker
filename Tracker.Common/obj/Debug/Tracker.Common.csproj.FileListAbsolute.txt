@@ -1,0 +1,6 @@
+C:\Users\Dan\source\repos\Tracker\Tracker.Common\bin\Debug\Tracker.Common.dll
+C:\Users\Dan\source\repos\Tracker\Tracker.Common\bin\Debug\Tracker.Common.pdb
+C:\Users\Dan\source\repos\Tracker\Tracker.Common\obj\Debug\Tracker.Common.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\Tracker\Tracker.Common\obj\Debug\Tracker.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Tracker\Tracker.Common\obj\Debug\Tracker.Common.dll
+C:\Users\Dan\source\repos\Tracker\Tracker.Common\obj\Debug\Tracker.Common.pdb
